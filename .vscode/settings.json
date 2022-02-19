@@ -1,0 +1,8 @@
+{
+    "python.linting.enabled": true,
+    
+    "python.pythonPath": "${workspaceFolder}/venv/Scripts/python"
+       
+}
+
+
